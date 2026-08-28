@@ -17,7 +17,7 @@ int main() {
     Linearization l(D, C);
     l.calc();
     l.print();
-    
+
     return 0;
 }
 
